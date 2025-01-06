@@ -1,0 +1,142 @@
+[
+    {
+        "carrid": "eFs",
+        "CARRNAME": "CARRNAME1",
+        "CURRCODE": "CURR1",
+        "URL": "URL1",
+        "mimeType": "mimeType1"
+    },
+    {
+        "carrid": "dAP",
+        "CARRNAME": "CARRNAME2",
+        "CURRCODE": "CURR2",
+        "URL": "URL2",
+        "mimeType": "mimeType2"
+    },
+    {
+        "carrid": "mlr",
+        "CARRNAME": "CARRNAME3",
+        "CURRCODE": "CURR3",
+        "URL": "URL3",
+        "mimeType": "mimeType3"
+    },
+    {
+        "carrid": "ZjC",
+        "CARRNAME": "CARRNAME4",
+        "CURRCODE": "CURR4",
+        "URL": "URL4",
+        "mimeType": "mimeType4"
+    },
+    {
+        "carrid": "Vgr",
+        "CARRNAME": "CARRNAME5",
+        "CURRCODE": "CURR5",
+        "URL": "URL5",
+        "mimeType": "mimeType5"
+    },
+    {
+        "carrid": "XrU",
+        "CARRNAME": "CARRNAME6",
+        "CURRCODE": "CURR6",
+        "URL": "URL6",
+        "mimeType": "mimeType6"
+    },
+    {
+        "carrid": "fml",
+        "CARRNAME": "CARRNAME7",
+        "CURRCODE": "CURR7",
+        "URL": "URL7",
+        "mimeType": "mimeType7"
+    },
+    {
+        "carrid": "ZZu",
+        "CARRNAME": "CARRNAME8",
+        "CURRCODE": "CURR8",
+        "URL": "URL8",
+        "mimeType": "mimeType8"
+    },
+    {
+        "carrid": "yxU",
+        "CARRNAME": "CARRNAME9",
+        "CURRCODE": "CURR9",
+        "URL": "URL9",
+        "mimeType": "mimeType9"
+    },
+    {
+        "carrid": "ePd",
+        "CARRNAME": "CARRNAME10",
+        "CURRCODE": "CUR10",
+        "URL": "URL10",
+        "mimeType": "mimeType10"
+    },
+    {
+        "carrid": "ReT",
+        "CARRNAME": "CARRNAME11",
+        "CURRCODE": "CUR11",
+        "URL": "URL11",
+        "mimeType": "mimeType11"
+    },
+    {
+        "carrid": "vrW",
+        "CARRNAME": "CARRNAME12",
+        "CURRCODE": "CUR12",
+        "URL": "URL12",
+        "mimeType": "mimeType12"
+    },
+    {
+        "carrid": "TeP",
+        "CARRNAME": "CARRNAME13",
+        "CURRCODE": "CUR13",
+        "URL": "URL13",
+        "mimeType": "mimeType13"
+    },
+    {
+        "carrid": "ZWa",
+        "CARRNAME": "CARRNAME14",
+        "CURRCODE": "CUR14",
+        "URL": "URL14",
+        "mimeType": "mimeType14"
+    },
+    {
+        "carrid": "Eds",
+        "CARRNAME": "CARRNAME15",
+        "CURRCODE": "CUR15",
+        "URL": "URL15",
+        "mimeType": "mimeType15"
+    },
+    {
+        "carrid": "XGH",
+        "CARRNAME": "CARRNAME16",
+        "CURRCODE": "CUR16",
+        "URL": "URL16",
+        "mimeType": "mimeType16"
+    },
+    {
+        "carrid": "TQG",
+        "CARRNAME": "CARRNAME17",
+        "CURRCODE": "CUR17",
+        "URL": "URL17",
+        "mimeType": "mimeType17"
+    },
+    {
+        "carrid": "mZD",
+        "CARRNAME": "CARRNAME18",
+        "CURRCODE": "CUR18",
+        "URL": "URL18",
+        "mimeType": "mimeType18"
+    },
+    {
+        "carrid": "OgD",
+        "CARRNAME": "CARRNAME19",
+        "CURRCODE": "CUR19",
+        "URL": "URL19",
+        "mimeType": "mimeType19"
+    },
+    {
+        "carrid": "ubt",
+        "CARRNAME": "CARRNAME20",
+        "CURRCODE": "CUR20",
+        "URL": "URL20",
+        "mimeType": "mimeType20"
+    }
+]
